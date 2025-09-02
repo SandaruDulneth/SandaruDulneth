@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=SandaruDulneth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=SandaruDulneth&theme=dark&hide_border=false" 
-    width="450"
+    width="400"
   />
 
 
