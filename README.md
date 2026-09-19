@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="name1.svg" alt="Sandaru Dulneth" />
+<img src="name2.svg" alt="Sandaru Dulneth" />
 
 **`FULL STACK · BACKEND DEV · SOFTWARE ENGINEERING`**
 
