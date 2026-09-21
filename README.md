@@ -2,21 +2,15 @@
 
 <img src="name2.svg" alt="Sandaru Dulneth" />
 
-**`FULL STACK · BACKEND DEV · SOFTWARE ENGINEERING`**
+**`BACKEND DEVELOPER · CS GRADUATE`**
 
 [![portfolio](https://img.shields.io/badge/portfolio-visit-white?style=flat-square&logo=vercel&logoColor=white&labelColor=000000&color=111111)](https://your-portfolio-url.com)&nbsp;&nbsp;![location](https://img.shields.io/badge/📍_Sri_Lanka-111111?style=flat-square)
-
 </div>
-
-&nbsp;
 
 > I’m a Computer Science graduate with a strong interest in backend development and system architecture. I enjoy building reliable software, solving problems, and continuously learning new technologies. One of my main goals is to strengthen the skills I already have while expanding my knowledge in areas like system design, scalable applications, and backend architecture.
 >
 > I’m always eager to learn and improve as a developer, especially by understanding how complex systems are designed and work behind the scenes. Outside of coding, I enjoy gaming and listening to music, which are my favorite ways to relax and recharge.
-
 &nbsp;
-
-
 
 ## Tech Stack and Tools
 
@@ -43,5 +37,5 @@
 ---
 
 <div align="center">
-  <sub>Reach me at <a href="mailto:your-email@example.com">sandarudevd@gmail.com</a></sub>
+  <sub>Reach me <a href="mailto:your-email@example.com">here</a></sub>
 </div>
